@@ -56,20 +56,32 @@ If you make changes on GitHub directly, return to WebStorm and select Git → Pu
 Glossary
 
 **Branch** – A parallel version of a repository where you can work on changes without affecting the main project.
+
 **Clone** – A copy of a GitHub repository downloaded to your local computer.
+
 **Commit** – A saved change in Git; like a snapshot of your project.
+
 **Fetch** – Downloads commits, branches, and files from a remote repository without merging them.
+
 **GIT** – A distributed version control system that tracks changes in code.
+
 **GitHub** – A platform for hosting Git repositories in the cloud, with collaboration tools.
+
 **Merge** – Combines changes from one branch into another.
+
 **Merge Conflict** – Happens when Git cannot automatically merge changes; requires manual resolution.
+
 **Push** – Sends your local commits to a remote repository (e.g., GitHub).
+
 **Pull** – Fetches and merges changes from a remote repository into your local branch.
+
 **Remote** – A version of the project hosted on GitHub or another server.
+
 **Repository** – A storage space for your project files and version history.
 
 
 References
+
 Git Documentation: https://git-scm.com/doc
 GitHub Guides: https://docs.github.com/en
 JetBrains WebStorm Docs: https://www.jetbrains.com/webstorm/documentation/
